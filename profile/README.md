@@ -1,6 +1,6 @@
 # PRX Lab
 
-![PRX Lab Logo](prx-logo.png)
+![PRX Lab Logo](prx-logo-.png)
 
 Bem-vindo à página oficial da **PRX Lab**, um laboratório de desenvolvimento focado na criação de **software moderno, soluções digitais e projetos baseados em inteligência artificial**.
 
